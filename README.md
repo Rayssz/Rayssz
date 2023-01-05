@@ -7,6 +7,8 @@ I'm Benito Raymond, an Undergraduate Student Majoring in Informatics Degree at T
 
 ## 🛠 Skills
 Python, Go, C++, SQL
+### Extra++
+Playing musical instrument 🎹🎵
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benito-raymond/)

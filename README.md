@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Machine Learning, Web Development<br>🎯 Goals: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Machine Learning, Web Development<br>🎯 Goals: Graduating in 2025!</p>
 
 ###
 
